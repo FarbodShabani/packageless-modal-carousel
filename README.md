@@ -5,3 +5,6 @@ It's simple package less modal You don't need to use special package for this mo
 if you wanna see how it's work like you can visit links below
 
 replit: https://replit.com/@farbodesham/packageless-modal-carousel?v=1
+
+
+sandbox: https://codesandbox.io/s/packageless-modal-carousel-gg92q3
