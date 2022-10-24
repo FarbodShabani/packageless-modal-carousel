@@ -24,7 +24,7 @@ export const ModalBoundary = styled.div`
   align-items: center;
   justify-content: flex-start;
   overflow-x: hidden;
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 300px) {
   & {
     width: 100vw;
     height: 100vh;
