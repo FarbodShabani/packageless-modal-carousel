@@ -25,7 +25,7 @@ export default function App() {
       >
         <ModalPagesContainer modalWidth={dimensions.width * numberOfPages} modalHeight={dimensions.height} marginLeft={dimensions.width * currentPage}>
           {slideArrays.map((pageTitle, index) => (
-            <ModalSlide width={dimensions.width} height={dimensions.height}>
+            <ModalSlide key={index} width={dimensions.width} height={dimensions.height}>
               {pageTitle}
               <ButtonContainer>
                 {index > 0 && (
