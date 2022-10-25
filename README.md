@@ -12,3 +12,5 @@ sandbox: https://codesandbox.io/s/packageless-modal-carousel-gg92q3
  Codepen version is written with html css js and nothing else.
  
  codepen : https://codepen.io/FarbodShabani/pen/mdKbXKj;
+
+link to video of how create this carousel: https://youtu.be/KC7PaE265U4
