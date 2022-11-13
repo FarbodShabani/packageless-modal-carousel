@@ -8,7 +8,7 @@ replit: https://replit.com/@farbodesham/packageless-modal-carousel?v=1
 
 sandbox: https://codesandbox.io/s/packageless-modal-carousel-gg92q3
 
-Stackblitz :https://packageless-modal-carousel-61vrz5.stackblitz.io
+Stackblitz: https://stackblitz.com/edit/packageless-modal-carousel?file=src/App.js&hideDevTools=1
  
  Codepen version is written with html css js and nothing else.
  
