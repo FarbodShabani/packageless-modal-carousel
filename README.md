@@ -13,5 +13,7 @@ Stackblitz: https://stackblitz.com/edit/packageless-modal-carousel?file=src/App.
  Codepen version is written with html css js and nothing else.
  
  codepen : https://codepen.io/FarbodShabani/pen/mdKbXKj;
+ 
+ replit: https://replit.com/@farbodesham/packageless-modal-carousel-html-css-js?v=1;
 
 link to video of how create this carousel: https://youtu.be/KC7PaE265U4
