@@ -6,7 +6,7 @@ if you wanna see how it's work you can visit links below
 
 replit: https://replit.com/@farbodesham/packageless-modal-carousel?v=1
 
-sandbox: https://codesandbox.io/s/packageless-modal-carousel-gg92q3
+codesandbox: https://codesandbox.io/s/packageless-modal-carousel-gg92q3
 
 Stackblitz: https://stackblitz.com/edit/packageless-modal-carousel?file=src/App.js&hideDevTools=1
  
@@ -15,5 +15,7 @@ Stackblitz: https://stackblitz.com/edit/packageless-modal-carousel?file=src/App.
  codepen : https://codepen.io/FarbodShabani/pen/mdKbXKj;
  
  replit: https://replit.com/@farbodesham/packageless-modal-carousel-html-css-js?v=1;
+ 
+ codesandbox: https://codesandbox.io/s/packageless-modal-carousel-html-css-js-yl7z0s
 
 link to video of how create this carousel: https://youtu.be/KC7PaE265U4
