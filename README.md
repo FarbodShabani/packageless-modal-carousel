@@ -16,6 +16,8 @@ Stackblitz: https://stackblitz.com/edit/packageless-modal-carousel?file=src/App.
  
  replit: https://replit.com/@farbodesham/packageless-modal-carousel-html-css-js?v=1;
  
- codesandbox: https://codesandbox.io/s/packageless-modal-carousel-html-css-js-yl7z0s
+ codesandbox: https://codesandbox.io/s/packageless-modal-carousel-html-css-js-yl7z0s;
+ 
+ Stackblitz: https://stackblitz.com/edit/packageless-modal-carousel-html-css-js?file=index.html;
 
 link to video of how create this carousel: https://youtu.be/KC7PaE265U4
