@@ -21,4 +21,5 @@ if you wanna see how it's work you can visit links below
  [Stackblitz](https://stackblitz.com/edit/packageless-modal-carousel-html-css-js?file=index.html&hideDevTools=1)
 
 link to video of how create this carousel: 
-[Yputube](https://youtu.be/KC7PaE265U4)
+
+[Youtube](https://youtu.be/KC7PaE265U4)
